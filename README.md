@@ -1,4 +1,4 @@
-Predict insurance fraud
+Predict insurance fraud(팀프로젝트)
 
 team project in data science school (방승환, 오학, 이승수, 정준모)
 
@@ -27,3 +27,5 @@ roc커브를 통하여 모형비교
 -한계점
 
 데이터자체에 결측값이 너무 많아서 임의로 mean값 등을 넣어주다보니 데이터가 좋지 않았다
+
+
